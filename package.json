@@ -1,0 +1,26 @@
+{
+  "name": "agent-based-modeling-js",
+  "version": "0.0.1",
+  "description": "Node/JavaScript engine for agent-based models",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wilson428/agent-based-modeling-js.git"
+  },
+  "keywords": [
+    "agent-based-modeling",
+    "abm"
+  ],
+  "author": "Chris Wilson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wilson428/agent-based-modeling-js/issues"
+  },
+  "homepage": "https://github.com/wilson428/agent-based-modeling-js#readme",
+  "dependencies": {
+    "d3-quadtree": "^1.0.7"
+  }
+}
